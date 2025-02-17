@@ -57,7 +57,7 @@ Mata kuliah **Konstruksi Perangkat Lunak (KPL)** membahas teknik dan praktik dal
 ## 📌 Dosen Pengampu
 - **Nama Dosen**: *Yudha Islami Sulistya*
 - **Email**: *yudhaislami@telkomuniversity.ac.id*
-- **Jadwal Kuliah**: *Senin, 14.30 - 17.30*
+- **Jadwal Kuliah**: *Selasa, 13.30 - 16.30*
 
 ## 📞 Kontak & Diskusi
 - **Forum Diskusi**: *(Tambahkan link grup Telegram/Discord/Forum)*
